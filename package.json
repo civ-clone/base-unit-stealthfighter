@@ -13,7 +13,8 @@
   "files": [
     "StealthFighter.js",
     "StealthFighter.d.ts",
-    "StealthFighter.js.map"
+    "StealthFighter.js.map",
+    "StealthFighter.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
